@@ -1,3 +1,4 @@
 *.retry.yml/
 *.vagrant/
 **/.DS_Store
+setup-output.txt
