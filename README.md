@@ -45,12 +45,12 @@ The first time you run the "vagrant up" command, it will download the OS images 
 
 ## System Details:
 > workstation
-- 192.168.88.4
-- Gateway - 192.168.88.1
+- 192.168.56.4
+- Gateway - 192.168.56.1
 - DNS - 8.8.8.8
 > registry
-- 192.168.88.5
-- Gateway - 192.168.88.1
+- 192.168.56.5
+- Gateway - 192.168.56.1
 - DNS - 8.8.8.8
 
 

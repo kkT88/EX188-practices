@@ -33,11 +33,11 @@ Once the container is up and running, prove that your settings are correctly app
 
 Connect to your database as the root user and check for the existence of the beer database:
 
-`echo "show databases;" | mysql -uduffman -h 192.168.88.4 -psaysoyeah`
+`echo "show databases;" | mysql -uduffman -h 192.168.56.4 -psaysoyeah`
 
 Run the command located in /sql/beer.sql to insert values into the database.
 
-`mysql -uroot -h 192.168.88.4 -pSQLp4ss < /sql/beer.sql`
+`mysql -uroot -h 192.168.56.4 -pSQLp4ss < /sql/beer.sql`
 
 
 ## Task 9
